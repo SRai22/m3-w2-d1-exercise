@@ -1,0 +1,26 @@
+{
+  "name": "mongodb_demo",
+  "version": "1.0.0",
+  "description": "Demo application using MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRai22/m3-w2-d1-exercise.git"
+  },
+  "keywords": [
+    "mongo_db",
+    "node.js"
+  ],
+  "author": "Shravan S Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRai22/m3-w2-d1-exercise/issues"
+  },
+  "homepage": "https://github.com/SRai22/m3-w2-d1-exercise#readme",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
